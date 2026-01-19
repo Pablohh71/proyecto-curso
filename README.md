@@ -1,4 +1,4 @@
 # proyecto-curso
 Repositorio creado para aprendizaje
 ## Descripcion
-Probando curso de GIT
+Probando curso de GIT y GITHUB
